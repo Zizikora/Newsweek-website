@@ -1,0 +1,19 @@
+.header{
+    background-color: red;
+    color: white;
+    font-size: 34;
+    width: 100vw;
+    height: 100px;
+}
+
+.content{
+justify-content: space-between;
+text-align: center;
+list-style-type: none;
+background-color: white;
+font-size: 20px;
+}
+
+.fa-thin fa-magnifying-glass{
+
+}
