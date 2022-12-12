@@ -6,14 +6,47 @@
     height: 100px;
 }
 
+
 .content{
 justify-content: space-between;
-text-align: center;
+text-align: left;
 list-style-type: none;
 background-color: white;
 font-size: 20px;
 }
 
-.fa-thin fa-magnifying-glass{
+.image{
+    width: 234;
+    height: 50;
+   float: right;
+   margin-top: 34px;
+}
+
+
+.block{
+    font-size: 17;
+    list-style-type: none;
+    margin-left: 21px;
+}
+
+.cards{
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.card{
+flex: 0 0 200px;
+}
+
+.card img{
+width: 350px;
+height: 250px;
+}
+
+.card h2{
+
+}
+
+.card p{
 
 }
