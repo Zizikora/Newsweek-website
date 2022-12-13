@@ -1,5 +1,5 @@
 .header{
-    background-color: red;
+    background-color: rgba(247, 34, 16, 1);
     color: white;
     font-size: 34;
     width: 100vw;
@@ -20,6 +20,7 @@ font-size: 20px;
     height: 50;
    float: right;
    margin-top: 34px;
+   margin-right: 56px;
 }
 
 
@@ -43,10 +44,6 @@ width: 350px;
 height: 250px;
 }
 
-.card h2{
-
-}
-
-.card p{
-
+.card a{
+color: black;
 }
