@@ -6,7 +6,9 @@
     height: 100px;
 }
 
-
+.date{
+ margin-right: 78px; 
+}
 .content{
 justify-content: space-between;
 text-align: left;
@@ -30,6 +32,20 @@ font-size: 20px;
     margin-left: 21px;
 }
 
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.card1{
+flex: 0 0 350px;
+overflow: hidden;
+clear: both;
+}
+
+
 .cards{
  display: flex;
  flex-wrap: wrap;
@@ -39,6 +55,7 @@ font-size: 20px;
 flex: 0 0 200px;
 }
 
+
 .card img{
 width: 350px;
 height: 250px;
@@ -46,4 +63,21 @@ height: 250px;
 
 .card a{
 color: black;
+}
+
+.card1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content2{
+    margin-left: 134px;
+}
+
+.content2text{
+    margin-left: 134px;
+}
+
+.audio{
+ color: red;
 }
