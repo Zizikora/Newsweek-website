@@ -78,6 +78,6 @@ color: black;
     margin-left: 134px;
 }
 
-.audio{
- color: red;
+.sound{
+background-image: url(/images/sound\ image.png);
 }
