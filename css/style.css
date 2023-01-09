@@ -81,3 +81,41 @@ color: black;
 .sound{
 background-image: url(/images/sound\ image.png);
 }
+
+
+.learn{
+    text-align: center;
+    width: 456;
+    color: red;
+    margin-left: 178px;
+    
+
+}
+
+
+.button{  
+    background-color:#f61602 ;
+}
+
+
+.show{
+    margin: 15px;
+}
+
+.showtext{
+    color: black;
+}
+
+#Email-Address2{
+    margin: 12px;
+}
+
+.button2{
+  border-radius: 15px;
+ background-color: #f61602;
+ height: 38;
+ width: 334;
+}
+
+
+
